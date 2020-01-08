@@ -1,3 +1,3 @@
-<h1> Hello, Welcome </h1>
-<h2> Deploying a war file on Tomcat Server <h2>
+<h1> Hello, kishore </h1>
+<h2> Devops training file on Tomcat Server <h2>
 
